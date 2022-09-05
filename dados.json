@@ -1,0 +1,2704 @@
+[
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 16,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 16,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 14.8,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 15.4,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 14.1,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 13.2,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 12.9,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 12.5,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 13.7,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 16.6,
+  "Umidade (%)": 73,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 16.8,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 17.9,
+  "Umidade (%)": 72,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 18,
+  "Umidade (%)": 73,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 17.9,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0.2
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 1
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 17.5,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0.4
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 16.9,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0.8
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0.5
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 16.5,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 1
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 15.5,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 15.8,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 15.7,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/14\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 16.3,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 15.8,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 16.1,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 16.1,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 15.5,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 16.7,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 18.8,
+  "Umidade (%)": 65,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 19.2,
+  "Umidade (%)": 63,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 20.2,
+  "Umidade (%)": 58,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 22.1,
+  "Umidade (%)": 52,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 24.4,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 25.9,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 26.6,
+  "Umidade (%)": 44,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 27.7,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 28.6,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 29.4,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 28.5,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 28.5,
+  "Umidade (%)": 50,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 26.6,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 25.8,
+  "Umidade (%)": 52,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 24.8,
+  "Umidade (%)": 56,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 18.1,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 11.3
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 18,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 5.1
+ },
+ {
+  "Data": "08\/15\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 17.8,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 1.5
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 18,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 2.6
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 17.5,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 91,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 16.2,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 14.9,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 14.6,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 14.5,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 15.6,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 17.4,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 19.8,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 19.2,
+  "Umidade (%)": 72,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 18.7,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 19.1,
+  "Umidade (%)": 69,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 21,
+  "Umidade (%)": 65,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 20.5,
+  "Umidade (%)": 67,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 19.8,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 17.3,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 16.1,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 15.3,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/16\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 13.3,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 13.3,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 91,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 12.6,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 16.5,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 19.1,
+  "Umidade (%)": 70,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 20.8,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 22.2,
+  "Umidade (%)": 66,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 21.5,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 21.4,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 23.7,
+  "Umidade (%)": 59,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 23.3,
+  "Umidade (%)": 65,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 22.2,
+  "Umidade (%)": 70,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 21.1,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 19.5,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 4.2
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 17.7,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 4.4
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 16.6,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 2.4
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 17.3,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/17\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 16.4,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 16.2,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 15.8,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0.1
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 15.4,
+  "Umidade (%)": 91,
+  "Chuva (mm)": 1.2
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 91,
+  "Chuva (mm)": 3.5
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 11.7,
+  "Umidade (%)": 91,
+  "Chuva (mm)": 1.1
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 10.3,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 9.5,
+  "Umidade (%)": 92,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 9.5,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 9.7,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 9.9,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 11.4,
+  "Umidade (%)": 62,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 12.3,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 13,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 13.4,
+  "Umidade (%)": 46,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 11.8,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 11.2,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 10.3,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 8.4,
+  "Umidade (%)": 63,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 7.5,
+  "Umidade (%)": 69,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 7.3,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 6.7,
+  "Umidade (%)": 70,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/18\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 5.8,
+  "Umidade (%)": 73,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 5.1,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 4.2,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 3.4,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 2.9,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 2.4,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 1.7,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 1.1,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 1,
+  "Umidade (%)": 90,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 2.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 5,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 8.4,
+  "Umidade (%)": 57,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 9.8,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 10.8,
+  "Umidade (%)": 46,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 12.4,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 11.8,
+  "Umidade (%)": 42,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 13.4,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 12.7,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 36,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 13.1,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 10.1,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 8,
+  "Umidade (%)": 61,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 6.4,
+  "Umidade (%)": 69,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 5,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/19\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 4.2,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 3.6,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 3.9,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 2.9,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 2.1,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 2.3,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 1.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 1.9,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 1.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 2.5,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 5.8,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 9.5,
+  "Umidade (%)": 60,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 11,
+  "Umidade (%)": 55,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 15.7,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 18.3,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 17.1,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 18.7,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 17.8,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 17.5,
+  "Umidade (%)": 44,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 12.9,
+  "Umidade (%)": 65,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 10.8,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 9.1,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 8.2,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/20\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 7.2,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 6.7,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 6.1,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 6.1,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 6.2,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 6,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 5.1,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 5.1,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 4.8,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 7.7,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 10.5,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 14.6,
+  "Umidade (%)": 63,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 17.3,
+  "Umidade (%)": 56,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 20.6,
+  "Umidade (%)": 41,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 21.6,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 20.8,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 22.5,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 21.5,
+  "Umidade (%)": 41,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 21.3,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 20.4,
+  "Umidade (%)": 46,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 16.6,
+  "Umidade (%)": 62,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 13.4,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 12.2,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 11.2,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/21\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 10.2,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 9,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 8.3,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 7.8,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 7.2,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 6.8,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 6.1,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 6,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 6.3,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 7.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 10.9,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 14.6,
+  "Umidade (%)": 73,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 18.7,
+  "Umidade (%)": 61,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 21.5,
+  "Umidade (%)": 50,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 22.2,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 23,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 23.2,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 22.3,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 22.3,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 21.3,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 19,
+  "Umidade (%)": 61,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 16.7,
+  "Umidade (%)": 69,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 14.4,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 13.4,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/22\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 12.3,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 11.4,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 11.2,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 10.8,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 10.6,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 10.4,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 9.8,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 9.1,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 8.7,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 10,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 14.1,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 18.3,
+  "Umidade (%)": 66,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 21,
+  "Umidade (%)": 60,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 23.8,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 24.6,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 25.5,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 25.2,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 26.6,
+  "Umidade (%)": 39,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 26.2,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 24.9,
+  "Umidade (%)": 44,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 20.7,
+  "Umidade (%)": 61,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 18.6,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 17.2,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/23\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 15.1,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 14.2,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 13,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 12.1,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 11.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 12.5,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 11.4,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 12.6,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 14.9,
+  "Umidade (%)": 71,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 16.9,
+  "Umidade (%)": 65,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 19.8,
+  "Umidade (%)": 58,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 22.6,
+  "Umidade (%)": 52,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 24.6,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 24.8,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 26,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 26.5,
+  "Umidade (%)": 41,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 26.4,
+  "Umidade (%)": 43,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 26.3,
+  "Umidade (%)": 42,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 24.6,
+  "Umidade (%)": 52,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 21.1,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 18.9,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 17.4,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 16.3,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/24\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 16,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 15.1,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 14.7,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 13.7,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 13.5,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 13.1,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 13.2,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 13.7,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 19.5,
+  "Umidade (%)": 59,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 22.3,
+  "Umidade (%)": 53,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 24.3,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 26,
+  "Umidade (%)": 42,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 26.6,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 27.8,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 28.8,
+  "Umidade (%)": 35,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 28.6,
+  "Umidade (%)": 37,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 28.1,
+  "Umidade (%)": 37,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 26.4,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 22.4,
+  "Umidade (%)": 62,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 19.6,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 17.8,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 16.7,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/25\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 15.8,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 16.5,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 14.3,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 13.8,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 13.5,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 12.7,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 12.2,
+  "Umidade (%)": 86,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 11.7,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 11,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 13.4,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 18.5,
+  "Umidade (%)": 64,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 21.2,
+  "Umidade (%)": 57,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 23.8,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 24.8,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 25,
+  "Umidade (%)": 58,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 26.5,
+  "Umidade (%)": 54,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 27.2,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 27.3,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 27.1,
+  "Umidade (%)": 48,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 25.9,
+  "Umidade (%)": 53,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 22.4,
+  "Umidade (%)": 68,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 20.1,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 18.9,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 17.4,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/26\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 16.4,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 15.6,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 15.1,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 14.8,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 14.5,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 13.5,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 12.6,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 14,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 13.2,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 17,
+  "Umidade (%)": 72,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 19.8,
+  "Umidade (%)": 63,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 23.7,
+  "Umidade (%)": 51,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 26.1,
+  "Umidade (%)": 44,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 27.9,
+  "Umidade (%)": 37,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 29.3,
+  "Umidade (%)": 33,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 29.6,
+  "Umidade (%)": 34,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 29.4,
+  "Umidade (%)": 36,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 29.6,
+  "Umidade (%)": 36,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 29.4,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 27.7,
+  "Umidade (%)": 45,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 25.4,
+  "Umidade (%)": 53,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 21.7,
+  "Umidade (%)": 67,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 20.9,
+  "Umidade (%)": 70,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 20.2,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/27\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 19.5,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 19.1,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 20,
+  "Umidade (%)": 74,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 18.7,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 17.9,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 16.5,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 15.9,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 15.7,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0.2
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 15.1,
+  "Umidade (%)": 87,
+  "Chuva (mm)": 3.7
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 11.4,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 1.4
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 10.1,
+  "Umidade (%)": 89,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 9.7,
+  "Umidade (%)": 88,
+  "Chuva (mm)": 0.4
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 10.1,
+  "Umidade (%)": 85,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 10.4,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 11.5,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 11.5,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 11.3,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 10.8,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 10.1,
+  "Umidade (%)": 80,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 9.3,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 9.2,
+  "Umidade (%)": 76,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 8.5,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 7.8,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 7.3,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/28\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 6.7,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 6.1,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 5.7,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "02:00:00",
+  "Temperatura (ºC)": 5.2,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "03:00:00",
+  "Temperatura (ºC)": 4.8,
+  "Umidade (%)": 83,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "04:00:00",
+  "Temperatura (ºC)": 4.2,
+  "Umidade (%)": 84,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "05:00:00",
+  "Temperatura (ºC)": 3.7,
+  "Umidade (%)": 82,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "06:00:00",
+  "Temperatura (ºC)": 3.5,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "07:00:00",
+  "Temperatura (ºC)": 3.1,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "08:00:00",
+  "Temperatura (ºC)": 4.9,
+  "Umidade (%)": 77,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "09:00:00",
+  "Temperatura (ºC)": 6.2,
+  "Umidade (%)": 73,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "10:00:00",
+  "Temperatura (ºC)": 7.7,
+  "Umidade (%)": 66,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "11:00:00",
+  "Temperatura (ºC)": 9.5,
+  "Umidade (%)": 63,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "12:00:00",
+  "Temperatura (ºC)": 11.4,
+  "Umidade (%)": 56,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "13:00:00",
+  "Temperatura (ºC)": 12.5,
+  "Umidade (%)": 49,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "14:00:00",
+  "Temperatura (ºC)": 13.9,
+  "Umidade (%)": 47,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "15:00:00",
+  "Temperatura (ºC)": 16,
+  "Umidade (%)": 40,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "16:00:00",
+  "Temperatura (ºC)": 16,
+  "Umidade (%)": 38,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "17:00:00",
+  "Temperatura (ºC)": 16.2,
+  "Umidade (%)": 37,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "18:00:00",
+  "Temperatura (ºC)": 14.7,
+  "Umidade (%)": 46,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "19:00:00",
+  "Temperatura (ºC)": 11.9,
+  "Umidade (%)": 55,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "20:00:00",
+  "Temperatura (ºC)": 9.7,
+  "Umidade (%)": 61,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "21:00:00",
+  "Temperatura (ºC)": 8.1,
+  "Umidade (%)": 70,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "22:00:00",
+  "Temperatura (ºC)": 7.4,
+  "Umidade (%)": 75,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/29\/2022",
+  "Hora": "23:00:00",
+  "Temperatura (ºC)": 6.7,
+  "Umidade (%)": 78,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/30\/2022",
+  "Hora": "00:00:00",
+  "Temperatura (ºC)": 6.3,
+  "Umidade (%)": 79,
+  "Chuva (mm)": 0
+ },
+ {
+  "Data": "08\/30\/2022",
+  "Hora": "01:00:00",
+  "Temperatura (ºC)": 6.1,
+  "Umidade (%)": 81,
+  "Chuva (mm)": 0
+ }
+]
